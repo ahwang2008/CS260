@@ -1,0 +1,38 @@
+body {
+    background-color: powderblue;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+h2 {
+    color: darkblue;
+}
+
+p {
+    font-family: times;
+    font-size: 15px;
+}
+
+.active {
+    background-color: green;
+}
+
+nav li {
+  display: inline;
+}
+
+section {
+ display: flex;
+}
+
+aside {
+ flex: 1
+}
+
+article {
+ flex: 4
+}
+
